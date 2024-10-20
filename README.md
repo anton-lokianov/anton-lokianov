@@ -7,12 +7,12 @@ frontend-focused software developer specializing in React.js and Next.js. I enjo
 
 ### 💻 Tech Stack:
 
-**-Languages**: 
+- **Languages**: 
 JavaScript,
 TypeScript,
 Python
 
-**-Frameworks & Libraries:** 
+- **Frameworks & Libraries:** 
 React,
 Next.js,
 Node.js,
@@ -20,7 +20,7 @@ Express.js,
 React-query,
 TailwindCSS
 
-**-Tools & Platforms:** 
+- **Tools & Platforms:** 
 GitHub,
 Docker,
 Vercel,
